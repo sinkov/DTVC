@@ -1,4 +1,7 @@
 # Comparing Google Pixel 6 vs Iphone 12 Pro marketing campaigns
+
+![Screenshot](screen.png)
+
 Instruments used:
 1) Selenium for scraping comments
 2) Pytrends for Google requests
